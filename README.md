@@ -23,8 +23,11 @@
   # Install dependencies
   yarn
 
-  # Start application
+  # Start App
   yarn android
+
+  # Test App with Jest
+  yarn test
 ```
 <br />
 
